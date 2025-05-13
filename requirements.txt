@@ -1,0 +1,6 @@
+pandas
+numpy
+python-Levenshtein
+pm4py
+networkx
+tqdm
